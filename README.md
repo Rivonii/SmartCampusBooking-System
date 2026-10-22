@@ -37,8 +37,7 @@ The Smart Campus Resource Booking System is a Python application developed to he
 
 ## GitHub Repository
 
-Repository link: [Paste your public GitHub repository URL here]
-
+Repository link: https://github.com/Rivonii/SmartCampusBooking-System
 ## Author
 
 Student project for PROGRAMMING 512.
